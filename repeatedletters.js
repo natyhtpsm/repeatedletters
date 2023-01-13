@@ -1,3 +1,8 @@
+// Name: Nathália Pimentel de Assis
+//University: University of Brasilia
+//Bachelor student in eletronic engineering course
+//Date: November 4th 2022
+
 function letrasRepetidas(string) {
     let letras = [];
     let acumuladoQuantidade = [];
